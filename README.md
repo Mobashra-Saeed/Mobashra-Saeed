@@ -11,11 +11,11 @@
     <a href="https://mobashra-portfolio.vercel.app/">
       <img src="https://img.shields.io/badge/Live_Portfolio-0F0A1E?style=for-the-badge&logo=vercel&logoColor=A855F7" alt="Portfolio"/>
     </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/msaeed83/">
       <img src="https://img.shields.io/badge/💼_LinkedIn_Profile-0F0A1E?style=for-the-badge&logo=linkedin&logoColor=818CF8" alt="LinkedIn"/>
     </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:mobashrasaeed713@gmail.com">
       <img src="https://img.shields.io/badge/Direct_Email-0F0A1E?style=for-the-badge&logo=gmail&logoColor=C084FC" alt="Email"/>
     </a>
