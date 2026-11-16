@@ -23,7 +23,7 @@
 ---
 
 ### 🔮 Research Focus & Engineering Philosophy
-I bridge **Natural Language Processing (NLP)** research with **scalable full-stack web engineering**. My undergraduate thesis focused on automated misinformation detection and eliminating data leakage in high-dimensional text classification pipelines[cite: 3, 4]. I am actively seeking **Graduate Research Assistantship (GRA)** opportunities for Fall in **Applied NLP, Text Mining, and Human-Centered AI**[cite: 7].
+I bridge **Natural Language Processing (NLP)** research with **scalable full-stack web engineering**. My undergraduate thesis focused on automated misinformation detection and eliminating data leakage in high-dimensional text classification pipelines. I am actively seeking **Graduate Research Assistantship (GRA)** opportunities for Fall in **Applied NLP, Text Mining, and Human-Centered AI**.
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#16102B', 'primaryTextColor': '#F3E8FF', 'primaryBorderColor': '#9333EA', 'lineColor': '#A855F7', 'secondaryColor': '#090712', 'tertiaryColor': '#1E1B4B'}}}%%
