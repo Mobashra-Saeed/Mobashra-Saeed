@@ -7,16 +7,12 @@
     <sub>B.S. Information Technology (3.77 CGPA) • The Islamia University of Bahawalpur • TOEFL iBT: 110/120 (CEFR C1)</sub>
   </p>
 
-  <p>
-    <a href="https://mobashra-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-0F0A1E?style=for-the-badge&logo=vercel&logoColor=A855F7" alt="Portfolio"/>
-    </a>
-    <a href="https://www.linkedin.com/in/msaeed83/">
-      <img src="https://img.shields.io/badge/LINKEDIN-0F0A1E?style=for-the-badge&logo=linkedin&logoColor=818CF8" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:mobashrasaeed713@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL_CONTACT-0F0A1E?style=for-the-badge&logo=gmail&logoColor=C084FC" alt="Email"/>
-    </a>
+<p>
+    <a href="https://mobashra-portfolio.vercel.app/"><b>🌐 Live Portfolio</b></a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/msaeed83/"><b>💼 LinkedIn</b></a>
+    &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="mailto:mobashrasaeed713@gmail.com"><b>✉️ Email Contact</b></a>
   </p>
 </div>
 
