@@ -22,13 +22,13 @@
 
 ---
 
-### 🔮 Research Focus & Engineering Philosophy
-I bridge **Natural Language Processing (NLP)** research with **scalable full-stack web engineering**. My undergraduate thesis focused on automated misinformation detection and eliminating data leakage in high-dimensional text classification pipelines. I am actively seeking **Graduate Research Assistantship (GRA)** opportunities for Fall in **Applied NLP, Text Mining, and Human-Centered AI**.
+### About Me & Research Vision
+I bridge Natural Language Processing research with production-grade full-stack web engineering. For my undergraduate thesis, I developed an automated misinformation detection and classification pipeline on over 44,000 news articles, focusing heavily on eliminating data leakage. I am actively seeking Graduate Research Assistantship (GRA) opportunities for the upcoming term in Applied NLP, Text Mining, and Human-Centered AI.
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#16102B', 'primaryTextColor': '#F3E8FF', 'primaryBorderColor': '#9333EA', 'lineColor': '#A855F7', 'secondaryColor': '#090712', 'tertiaryColor': '#1E1B4B'}}}%%
 flowchart LR
-    A["📄 Unstructured Corpora<br/>(44k+ News Articles)"] --> B["⚙️ NLP Preprocessing<br/>(Regex, NLTK, TF-IDF)"]
-    B --> C["🧠 ML & Statistical Modeling<br/>(Gradient Boosting, Hybrid Scoring)"]
-    C --> D["⚡ REST API Inference<br/>(Flask / Node.js / Gemini)"]
-    D --> E["🖥️ Interactive UI Systems<br/>(Next.js / Angular / React)"]
+    A["Raw Unstructured Text<br/>(44k+ News Articles)"] --> B["NLP Preprocessing<br/>(Regex, NLTK, TF-IDF)"]
+    B --> C["Machine Learning Models<br/>(Gradient Boosting & Classifiers)"]
+    C --> D["REST API Inference<br/>(Flask / Node.js / Gemini)"]
+    D --> E["Interactive Web UI<br/>(Next.js / Angular / React)"]
