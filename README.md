@@ -9,7 +9,7 @@
 
 <p>
     <a href="https://mobashra-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/✨_Live_Portfolio-0F0A1E?style=for-the-badge&logo=vercel&logoColor=A855F7" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Live_Portfolio-0F0A1E?style=for-the-badge&logo=vercel&logoColor=A855F7" alt="Portfolio"/>
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/msaeed83/">
@@ -17,7 +17,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="mailto:mobashrasaeed713@gmail.com">
-      <img src="https://img.shields.io/badge/✉️_Direct_Email-0F0A1E?style=for-the-badge&logo=gmail&logoColor=C084FC" alt="Email"/>
+      <img src="https://img.shields.io/badge/Direct_Email-0F0A1E?style=for-the-badge&logo=gmail&logoColor=C084FC" alt="Email"/>
     </a>
   </p>
 </div>
