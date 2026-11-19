@@ -1,9 +1,9 @@
 <div align="center">
   <img src="./hero-banner.jpg?v=2" alt="Mobashra Saeed — Applied NLP & Full-Stack AI Systems Engineer" width="100%" />
 
----
 
-<p align="center">
+
+<p align="center" size="large">
     <a href="https://mobashra-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0F0A1E?style=for-the-badge&logo=vercel&logoColor=A855F7" alt="Portfolio"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/msaeed83/"><img src="https://img.shields.io/badge/LinkedIn_Profile-0F0A1E?style=for-the-badge&logo=linktree&logoColor=A855F7" alt="LinkedIn"/></a>
