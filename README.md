@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero-banner.jpg" alt="Mobashra Saeed — Applied NLP & Full-Stack AI Systems Engineer" width="100%" />
+  <img src="./hero-banner.jpg?v=2" alt="Mobashra Saeed — Applied NLP & Full-Stack AI Systems Engineer" width="100%" />
 
   <h1>Mobashra Saeed</h1>
   <p>
