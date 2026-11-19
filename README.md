@@ -1,12 +1,6 @@
 <div align="center">
   <img src="./hero-banner.jpg?v=2" alt="Mobashra Saeed — Applied NLP & Full-Stack AI Systems Engineer" width="100%" />
 
-  <h1>Mobashra Saeed</h1>
-  <p>
-    <b>Applied NLP &amp; Machine Learning &nbsp;|&nbsp; Full-Stack AI Systems Engineer</b><br/>
-    <sub>B.S. Information Technology (3.77 CGPA) • The Islamia University of Bahawalpur • TOEFL iBT: 110/120 (CEFR C1)</sub>
-  </p>
-
 <p align="center">
     <a href="https://mobashra-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-0F0A1E?style=for-the-badge&logo=vercel&logoColor=A855F7" alt="Portfolio"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
